@@ -1,0 +1,24 @@
+analyte,label,iqc_name,unit,si_unit,si_factor,cvi,cvg,clia_pct,clia_abs,clia_abs_unit
+albumin,Albumin,albumin,g/dL,g/L,10,2.5,4.1,8,,
+alp,Alkaline phosphatase,alp,U/L,µkat/L,0.016667,6.6,35.6,20,,
+alt,Alanine aminotransferase,alt,U/L,µkat/L,0.016667,11.4,35.2,15,6,U/L
+ast,Aspartate aminotransferase,ast,U/L,µkat/L,0.016667,8.6,19.4,15,6,U/L
+calcium,Calcium,ca,mg/dL,mmol/L,0.2495,1.8,2.7,,1.0,mg/dL
+chloride,Chloride,klor,mmol/L,mmol/L,1,1.0,1.3,5,,
+hdl,HDL cholesterol,hdl,mg/dL,mmol/L,0.02586,5.7,20.0,20,6,mg/dL
+ldl,LDL cholesterol,ldl,mg/dL,mmol/L,0.02586,7.7,20.2,20,,
+cholesterol,Total cholesterol,totalkolesterol,mg/dL,mmol/L,0.02586,5.2,15.3,10,,
+creatinine,Creatinine,kreatinin,mg/dL,µmol/L,88.4,4.4,16.2,10,0.2,mg/dL
+ggt,Gamma-glutamyl transferase,ggt,U/L,µkat/L,0.016667,8.3,45.2,15,5,U/L
+glucose,Glucose,glukoz,mg/dL,mmol/L,0.0555,4.6,8.1,8,6,mg/dL
+iron,Iron,demir,µg/dL,µmol/L,0.1791,27.6,26.7,15,,
+ldh,Lactate dehydrogenase,ldh,U/L,µkat/L,0.016667,4.4,11.8,15,,
+magnesium,Magnesium,Mg,mg/dL,mmol/L,0.4114,2.6,5.9,15,,
+phosphate,Phosphate,fosfor,mg/dL,mmol/L,0.3229,7.7,10.7,10,0.3,mg/dL
+potassium,Potassium,K,mmol/L,mmol/L,1,3.9,5.3,,0.3,mmol/L
+sodium,Sodium,na,mmol/L,mmol/L,1,0.5,0.7,,4,mmol/L
+bilirubin,Total bilirubin,bili,mg/dL,µmol/L,17.1,20.2,24.6,20,0.4,mg/dL
+protein,Total protein,totalprotein,g/dL,g/L,10,2.6,3.5,8,,
+triglycerides,Triglycerides,trigliserid,mg/dL,mmol/L,0.01129,19.7,33.1,15,,
+urea,Urea,bun,mg/dL,mmol/L,0.357,13.3,20.6,9,2,mg/dL
+uric_acid,Uric acid,ürikasit,mg/dL,µmol/L,59.48,8.1,22.4,10,,
